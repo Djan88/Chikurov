@@ -296,7 +296,7 @@
         <div class="collapse navbar-collapse pull-right">
           <ul class="nav navbar-nav">
             <li><a href="/"><span class="fa fa-home"></span></a></li>
-            <li><a href="/biologicheskoe-centrirovanie/">Биологическое центрирование</a></li>
+            <li><a href="/biologicheskoe-centrirovanie/">Биологическе центрирование</a></li>
             <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Визардмашины<b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="http://wizardmachine.ru/">Wizard Machine</a></li>
