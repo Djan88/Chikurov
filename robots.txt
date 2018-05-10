@@ -23,9 +23,8 @@ Disallow: /?feed=
 Disallow: /job
 Disallow: /?s=
 Host: staurus.net
-User-agent: bingbot
+User-agent: * 
 Crawl-delay: 40
-
 
 User-agent: RankSonicSiteAuditor
 Disallow: /

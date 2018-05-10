@@ -16,7 +16,9 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'u0492251_chi_db'); 
+define('WP_CACHE', true);
+define( 'WPCACHEHOME', '/var/www/u0352628/public_html/yuchikurov.info/wp-content/plugins/wp-super-cache/' );
+define('DB_NAME', 'u0352628_chi_db'); 
 
 /** MySQL database username */
 define('DB_USER', 'u0492251_chikuro');
