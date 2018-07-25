@@ -19,7 +19,7 @@
 define('DB_NAME', 'u0352628_chi_db'); 
 
 /** MySQL database username */
-define('DB_USER', 'u0352628_chikuro');
+define('DB_USER', 'u0492251_chikuro');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'o5Sv9]qiH0&4');
